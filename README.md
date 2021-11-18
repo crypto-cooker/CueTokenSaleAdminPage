@@ -1,2 +1,2 @@
-# CueTokenSaleAdminPage
-ESkillz token sale admin page (Vue.js)
+# CueTokenSalePage
+Vue.js
